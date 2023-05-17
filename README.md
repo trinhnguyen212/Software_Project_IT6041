@@ -6,5 +6,9 @@ This project deals with developing a Virtual website ‘E-commerce Website’. I
 3. Open terminal inside the folder with code.
 4. Activate the "env" by using "env\Scripts\activate".
 5. Type python manage.py runserver to start a localhost server for the app.
-6. if you cannot activate the "env", you can create a new env, and then tyype pip install -r requirements.txt in the terminal window to install all the requirements to run the app.
-7. The API is started and now you can use the API routes to give requests.
+6. if you cannot activate the "env", you can create a new env, and then type "pip install -r requirements.txt" in the terminal window to install all the requirements to run the app.
+7. The Django admin account as below:
+     Username: admin123
+     Password: changme1234
+9. The API is started and now you can use the API routes to give requests.
+
