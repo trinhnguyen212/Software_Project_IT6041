@@ -1,4 +1,4 @@
-#!E:\Eshop-main\Eshop-main\env\Scripts\python.exe
+#!F:\Ecommerce _shop-main\env\Scripts\python.exe
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
