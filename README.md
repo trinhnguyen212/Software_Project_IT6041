@@ -9,6 +9,6 @@ This project deals with developing a Virtual website ‘E-commerce Website’. I
 6. if you cannot activate the "env", you can create a new env, and then type "pip install -r requirements.txt" in the terminal window to install all the requirements to run the app.
 7. The Django admin account details as below:
      Username: admin123
-     Password: changme
+     Password: changme1234
 9. The API is started and now you can use the API routes to give requests.
 
