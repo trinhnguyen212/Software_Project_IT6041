@@ -3,7 +3,7 @@ This project deals with developing a Virtual website ‘E-commerce Website’. I
 
 1. Clone this repository into a folder on your computer
 2. Download Python
-3. Open terminal inside the folder with code
+3. Open terminal inside the folder with code.
 4. Activate the "env" by using "env\Scripts\activate".
 5. Type python manage.py runserver to start a localhost server for the app.
 6. if you cannot activate the "env", you can create a new env, and then type "pip install -r requirements.txt" in the terminal window to install all the requirements to run the app.
